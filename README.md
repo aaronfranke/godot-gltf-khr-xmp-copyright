@@ -5,3 +5,6 @@ Godot implementation of the glTF KHR_xmp_json_ld extension for DCMI copyright me
 The addon is licensed under The Unlicense. Anyone is free to use this without restriction. Credit is appreciated but not required.
 
 The test model is licensed under CC-BY-4.0, created by Mr. Snark (https://sketchfab.com/Mr-Snark). The full copyright details are in the `.gltf` file (remember, the whole point of this repo is an addon for storing copyright metadata in glTF files).
+
+When exporting a glTF file from Godot, you should see this menu:
+![Preview](preview.png)
