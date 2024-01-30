@@ -28,7 +28,6 @@ func _import_preflight(gltf_state: GLTFState, extensions_used: PackedStringArray
 			return ERR_INVALID_DATA
 		parsed_khr_xmp_data.append(xmp)
 	gltf_state.set_additional_data(&"KHR_xmp_json_ld", parsed_khr_xmp_data)
-	print(parsed_khr_xmp_data)
 	return OK
 
 
