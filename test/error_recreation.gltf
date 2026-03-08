@@ -10,6 +10,7 @@
 		}
 	},
 	"extensionsUsed": [
+		"GODOT_single_root",
 		"KHR_materials_specular",
 		"KHR_materials_ior",
 		"KHR_xmp_json_ld"
